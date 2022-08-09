@@ -1,7 +1,7 @@
 # Smart_Snake-Game
 ## This is a Smart version of Snake game.
 
-In this project we are going to develop a game called “Snake Game Pro” by using java. Normally the "Snake  Game" we used to play back in our childhood worked on the idea that the snake had to be controlled by the  player which tried to eat food & increase its length as long as it was alive and the game was over when it had a  collision with its body. But in our version, We are going to develop a game which is a bit different from the usual  Snake Game. In this game, there is a snake which moves automatically and intelligently to eat the food that is  controlled by the player. If snake bites itself before eating the food then the player wins and if the snake eat the  food then the game is over.
+In this project we are going to develop a game called “Smart Snake” by using java. Normally the "Snake  Game" we used to play back in our childhood worked on the idea that the snake had to be controlled by the  player which tried to eat food & increase its length as long as it was alive and the game was over when it had a  collision with its body. But in our version, We are going to develop a game which is a bit different from the usual  Snake Game. In this game, there is a snake which moves automatically and intelligently to eat the food that is  controlled by the player. If snake bites itself before eating the food then the player wins and if the snake eat the  food then the game is over.
 
 ## Functions:
 ### GamePanel():
